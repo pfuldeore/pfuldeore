@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Prathamesh Fuldeore, I am 2020 Btech graduate from Veermata Jijabai Technological Institute (VJTI).
+- 👀 I’m Data Science and technology enthusiast.
+- 📫 Currently working as AI Engineer at IQVIA.
+- 📫 You can reach me on my email: prathamesh1998.pf@gmail.com.
